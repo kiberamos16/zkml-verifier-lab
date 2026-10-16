@@ -16,5 +16,4 @@ at `0x90737933594686BAC98cEB1B600Cc3876c4DC591`, transaction
 `0x88abfe2ff3ffe3eaa926e7bc6a3ae385a666df748f980d5831f06f5c57ca583d`,
 block 11928453. Runtime bytecode matches the local compiled artifact exactly.
 Read-only calls accept the real fixture and reject a changed public signal.
-Etherscan source verification passed on 2026-10-16. Public source mirror remains
-a separate L05.3 task. Evidence: `docs/evidence/2026-10-16-verifier-deployment.json`.
+Etherscan source verification passed on 2026-10-16. Public GPL-3.0 source mirror: https://github.com/kiberamos16/zkml-verifier-lab. Evidence: `docs/evidence/2026-10-16-verifier-deployment.json`.

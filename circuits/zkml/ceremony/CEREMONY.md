@@ -3,7 +3,9 @@
 > **STATUS: CEREMONY COMPLETE · 2026-10-16.** Sebastian contributed, the
 > precommitted Ethereum mainnet block 26205728 finalized, and its hash was
 > applied with beacon exponent 10. The committed verifier and proof fixture
-> now come from this final ceremony. Sepolia deployment is still pending.
+> now come from this final ceremony. Sepolia verifier deployment and source verification
+> completed at `0x90737933594686BAC98cEB1B600Cc3876c4DC591`; public source:
+> https://github.com/kiberamos16/zkml-verifier-lab.
 
 ## Phase 1 — Powers of Tau
 
